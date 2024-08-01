@@ -2,9 +2,9 @@ import {Button} from "@/components/ui/button";
 
 const Home = () => {
     return (
-        <div>
+        <main className="home-container">
             <Button>Click me</Button>
-        </div>
+        </main>
     );
 }
 
